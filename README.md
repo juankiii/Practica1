@@ -1,2 +1,2 @@
 # Practica1
-Definición de diferentes estrucutra de datos
+Definición de diferentes estructuras de datos
